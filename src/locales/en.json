@@ -1,0 +1,47 @@
+{
+  "navBar": {
+    "itemOne": "Home",
+    "itemTwo": "About Me",
+    "itemThree": "Projects",
+    "itemFour": "Skills",
+    "itemFive": "Contact"
+  },
+  "start": {
+    "title": "Hello! I'm",
+    "name": "Liceth Olmos",
+    "subtitle": "Frontend Developer and UX Designer",
+    "description": "Passionate about creating engaging and functional digital solutions, ready to grow and contribute with my passion and skills in developing high-quality digital solutions.",
+    "text": "Designing with "
+  },
+  "typed":{
+    "words":[
+    "Love 💕.",
+    "Coffee ☕.",
+    "Creativity 💡.",
+    "Passion 🔥.",
+    "Empathy 🤝."
+  ]},
+  "contacts":{
+    "greet":"Let's talk about your next project!",
+    "paragraph":"Hello! Thank you for visiting my portfolio. Whether you're interested in collaborating or just want to say hello, I'd be delighted to hear from you. "
+
+  },
+  "contact":{
+    "messageContact":"How Can I Help You?",
+    "name":"Name",
+    "email": "Email",
+    "message": "message",
+    "submit": "submit"
+  },
+  "theme":{
+    "select": "Select the theme"
+
+  },
+  "about":{
+    "nameAbout": "Liceth Olmos  👋",
+    "descriptionOne":"I am a passionate Front-End Developer, dedicated to solving challenging problems. I constantly strive to exceed expectations and deliver high-quality results 🔥.",
+    "descriptionTwo":"With skills in HTML, CSS, and JavaScript, my mission is to create captivating and responsive web experiences that drive the success of each project. Always learning and continuously evolving, I love collaborating with creative teams to take innovation to the next level.🌐💻🤝.",
+    "descriptionThree":"Outside of work, I enjoy traveling 🌍, reading books 📚, and watching movies 🎬."
+  }
+
+}

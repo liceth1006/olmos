@@ -1,0 +1,74 @@
+/* color palette  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+:root {
+  --background-first-color: #fcf7f3;
+  --background-second-color: #c7c7c7;
+  --background--button--color: #e7e7e7;
+  --first-color: #f56200;
+  --second-color: #161a2c;
+  --link-color: #509ee3;
+  --font: "Poppins", sans-serif;
+  --fon-size-title: 3rem;
+  --fon-size-subtitle: 2.5rem;
+  --fon-size-link: 1.5rem;
+  --max-width: 1200px;
+  --header-height: 5rem;
+}
+[data-theme="Autumn Blaze"] {
+  --background-first-color: #fcf7f3;
+  --background-second-color: #c7c7c7;
+  --background--button--color: #e7e7e7;
+  --first-color: #f56200;
+  --second-color: #161a2c;
+  --link-color: #509ee3;
+}
+[data-theme="Harvest Grove"] {
+  --background-first-color: #f7f5ec;
+  --background-second-color: #ee9b35d5;
+  --background--button--color: #cebcac;
+  --first-color: #55960b;
+  --second-color: #1c2412;
+  --link-color: #5fbe39;
+}
+[data-theme="Enchanted Nightfall"] {
+  --background-first-color: #0c1522;
+  --background-second-color: #15263b;
+  --background--button--color: #2e5488;
+  --first-color: #fca311;
+  --second-color: #e5e5e5;
+  --link-color: #219ebc;
+}
+[data-theme="Sunny Seashore"] {
+  --background-first-color: #fff5b6;
+  --background-second-color: #a5ddff;
+  --background--button--color: #dec5fc;
+  --first-color: #f85ae0;
+  --second-color: #111011;
+  --link-color: #219ebc;
+}
+[data-theme="Tropical Sunset"] {
+  --background-first-color: #fdfffc;
+  --background-second-color: #2ec4b6;
+  --background--button--color: #bfddda;
+  --first-color: #fa1c66;
+  --second-color: #011627;
+  --link-color: #219ebc;
+}
+[data-theme="Midnight Enchantmen"] {
+  --background-first-color: #020a38;
+  --background-second-color: #242731;
+  --background--button--color: #545455;
+  --first-color: #ff008c;
+  --second-color: #cccccc;
+  --link-color: #219ebc;
+}
+[data-theme="vintage"] {
+  --background-first-color: #131310;
+  --background-second-color: #292923;
+  --background--button--color: #41413d;
+  --first-color: #fefa00;
+  --second-color: #cccccc;
+  --link-color: #219ebc;
+}
+
+

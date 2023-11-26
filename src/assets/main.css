@@ -1,0 +1,135 @@
+@import './base.css';
+
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+/* ********** Reset ********** */
+html {
+  box-sizing: border-box;
+  font-family: var(--font);
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: var(--background-first-color);
+  color: var(--second-color);
+}
+a {
+  color: var(--second-color);
+  transition: all 0.5s ease-out;
+}
+a:hover {
+  opacity: 0.75;
+}
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+h5 {
+  margin: 0;
+  font-size: 0.85rem;
+}
+h6 {
+  margin: 0;
+  font-size: 0.7rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+p {
+  line-height: 1.6;
+  max-width: 75ch;
+}
+
+/* icon paint */
+.container {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px
+}
+.container--btn {
+  position: fixed;
+  top: 2vh; /* Cambiar esto según tus preferencias */
+  right: 15vh; /* Cambiar esto según tus preferencias */
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 15px;
+  z-index: 4;
+}
+.paint {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 50%;
+  border: none;
+  position: absolute;
+  top: 2.5vh;
+  right: 6vh;
+  width:  2.8rem;
+  height: 2.8rem;
+  background-color: var(--background--button--color);
+  cursor: pointer;
+}
+.paint__svg {
+  display: inline-block;
+  font-size: 1.5em;
+  height: 2em;
+  width: 2em;
+  vertical-align: middle;
+  pointer-events: none;
+  color: var(--second-color);
+}
+.nav__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  text-align: center;
+  background-color: var(--background--button--color);
+}
+.nav__icon svg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  text-align: center;
+  color: var(--second-color);
+}
+

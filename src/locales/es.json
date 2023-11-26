@@ -1,0 +1,44 @@
+{
+  "navBar": {
+    "itemOne": "Inicio",
+    "itemTwo": "Sobre Mí",
+    "itemThree": "Proyectos",
+    "itemFour": "Habilidades",
+    "itemFive": "Contacto"
+  },
+  "start": {
+    "title": "¡Hola! soy!",
+    "name":"Liceth Olmos",
+    "subtitle":"Desarrolladora frontend y Diseñadora UX",
+    "description":"Apasionada por la creación de soluciones digitales atractivas y funcionales lista para crecer y contribuir con mi pasión y habilidades en el desarrollo de soluciones digitales de calidad.",
+    "text": "Diseñando con "
+  },
+  "typed":{
+    "words":[
+      "Amor 💕.",
+      "Café ☕.",
+      "Creactividad 💡.",
+      "Pasión 🔥.",
+      "Empatía 🤝."
+  ]},
+  "contacts":{
+    "greet":"¡Hablemos de tu próximo proyecto!",
+    "paragraph":"¡Hola! Gracias por visitar mi portfolio. Si estás interesado en trabajar juntos o simplemente quieres decir hola, estaré encantada de escucharte. "
+  },
+"contact":{
+  "messageContact": "¿Cómo puedo ayudarte?",
+  "name":"Nombre",
+  "email": "Correo",
+  "message": "Mensaje",
+  "submit": "Enviar"
+},
+  "theme":{
+    "select": "seleccione el tema"
+  },
+  "about":{
+    "nameAbout": "Liceth Olmos  👋",
+    "descriptionOne":"Soy una Desarrolladora Front-End apasionada por resolver problemas desafiantes. Siempre busco superar las expectativas y entregar resultados de alta calidad🔥.",
+    "descriptionTwo":"Con habilidades en HTML, CSS y JavaScript, mi misión es crear experiencias web cautivadoras y responsivas que impulsen el éxito de cada proyecto. Siempre aprendiendo y en constante evolución, me encanta colaborar con equipos creativos para llevar la innovación al siguiente nivel 🌐💻🤝.",
+    "descriptionThree":"Fuera del trabajo, disfruto viajar 🌍, leer libros 📚 y ver  películas 🎬."
+  }
+}
